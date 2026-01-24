@@ -28,4 +28,8 @@ GBC
 <img width="1024" height="768" alt="BRICK_GBC_NATIVE_BLUE_LED" src="https://github.com/user-attachments/assets/9376a173-1d87-44bb-8cc5-35ce6ab48bfa" />
 <img width="1024" height="768" alt="BRICK_GBC_ASPECT_RED_LED" src="https://github.com/user-attachments/assets/94c9aed2-b679-41e3-9d31-025e9a824419" />
 <img width="1024" height="768" alt="BRICK_GBC_ASPECT_BLUE_LED" src="https://github.com/user-attachments/assets/56df41f4-e4fb-43db-87e6-951b6da14e65" />
+<img width="1024" height="768" alt="BRICK_GBC_NATIVE_RED_LED_JAPANESE" src="https://github.com/user-attachments/assets/e1ef773e-6494-4f0b-b90c-b7bd194d81d8" />
+<img width="1024" height="768" alt="BRICK_GBC_NATIVE_BLUE_LED_JAPANESE" src="https://github.com/user-attachments/assets/d84aeb9b-3df1-4993-a33c-9a956183c333" />
+<img width="1024" height="768" alt="BRICK_GBC_ASPECT_RED_LED_JAPANESE" src="https://github.com/user-attachments/assets/4a3d95e9-e8bc-4cbc-971b-5d4404569f1f" />
+<img width="1024" height="768" alt="BRICK_GBC_ASPECT_BLUE_LED_JAPANESE" src="https://github.com/user-attachments/assets/4467fe94-557e-4bc1-97a6-01780002f90b" />
 
