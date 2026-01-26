@@ -1,0 +1,17 @@
+{
+  "name": "trimui-overlay-converter",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "convert": "bun scripts/convert-to-pro.mjs",
+    "convert:native": "bun scripts/convert-to-pro.mjs --native",
+    "convert:aspect": "bun scripts/convert-to-pro.mjs --aspect",
+    "convert:dry": "bun scripts/convert-to-pro.mjs --dry-run",
+    "convert:gb": "bun scripts/convert-to-pro.mjs --system=GB",
+    "convert:gba": "bun scripts/convert-to-pro.mjs --system=GBA",
+    "convert:gbc": "bun scripts/convert-to-pro.mjs --system=GBC"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
