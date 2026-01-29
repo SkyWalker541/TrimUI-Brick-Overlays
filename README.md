@@ -1,5 +1,7 @@
 # TrimUI-Brick-Overlays
 
+**Update 1/28/2026: Fixed incorrect katakana dash on Japanese GBC overlays**
+
 Drag and drop (copy and paste) all system folders into NextUI's "Overlays" folder to use.
 
 These Overlays are made with NextUI in mind. They do not include .cfg files, but will work will retroarch and other custom firmwares. Those that require the config files will need them made.
