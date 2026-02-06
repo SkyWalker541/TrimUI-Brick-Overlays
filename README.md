@@ -10,6 +10,7 @@ The STN overlays atempt to reacreate the GBC screen as best as I can without usi
 "The GBC (Game Boy Color) STN display is a Super-Twisted Nematic Liquid Crystal Display. It is a type of passive-matrix LCD technology that was commonly used in the late 1980s and 1990s for portable devices, including Nintendo handhelds, because it was affordable and energy-efficient." -WIKIPEDIA
 
 ***Pixel Pop*** 
+
 The Pixel Pop overlays utilize the same appearance as the STN overlays, but with some modifications to really make the pixels pop.
 
 Drag and drop (copy and paste) all system folders into NextUI's "Overlays" folder to use.
