@@ -2,6 +2,8 @@
 
 **Update Feb 5, 2026: Added STN and Pixel Pop Overlays for GBC**
 
+***I highly recommend turning colorization OFF in retroarch settings for all of the STN and Pixel Pop overlays, for the most accurate representation of original hardware.***
+
 
 ***STN Overlays***
 
