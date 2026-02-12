@@ -15,9 +15,6 @@ The STN overlays atempt to reacreate the GBC screen as best as I can without usi
 
 The Pixel Pop overlays utilize the same appearance as the STN overlays, but with some modifications to really make the pixels pop.
 
-Drag and drop (copy and paste) all system folders into NextUI's "Overlays" folder to use.
-
 These Overlays are made with NextUI in mind. Config (.cfg) files located is seperate folder for full retroarch use.
 
-That being said these are drag and drop (copy and paste) for NextUI's "Overlays" folder.
 
